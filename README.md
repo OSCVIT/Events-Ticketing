@@ -30,3 +30,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+The figma designs of the project are here :- https://www.figma.com/file/tgBPNabPHMe9qah46b5xDX/Events-Ticketing?node-id=0%3A1&t=2x1pOds7VyTHl5Hb-1
